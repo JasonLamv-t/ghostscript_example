@@ -2,6 +2,8 @@
 
 该项目模板是一个基于 GhostScript 的 PDF 转 JPG 工具，该项目是一个 funcraft 工程，借助 funcraft 工具进行依赖安装，并部署代码到阿里云的函数计算平台，作为一个 serverless 的 PDF 转换服务。
 
+基于Serverless-Devs开发的版本请参考：[devsapp/start-pdf2img](https://github.com/devsapp/start-pdf2img)。
+
 ## 依赖工具
 
 本项目是在 MacOS 下开发的，涉及到的工具是平台无关的，对于 Linux 和 Windows 桌面系统应该也同样适用。在开始本例之前请确保如下工具已经正确的安装，更新到最新版本，并进行正确的配置。
